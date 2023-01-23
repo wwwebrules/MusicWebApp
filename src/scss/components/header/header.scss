@@ -1,0 +1,6 @@
+.header {
+	@media only screen and (min-width:$mdCnt){
+		grid-row: 1/2;
+		grid-column: 2/3;
+	}
+}

@@ -1,0 +1,28 @@
+$max-width-container:1720px;
+$mdCnt: #{$max-width-container};
+
+/* fonts */
+html:root{
+    --ff-1:"Inter";
+    --ff-2:"Jost";
+    --fw-2-:500;
+
+    --ff-3:"PlayfairDisplay";
+    --fw-3-:700;
+
+    --ff-4:"IstokWeb";
+    --fz:16px;
+    --lh:1.2;
+}
+/* /fonts */
+
+/* colors */
+html:root{
+--color-pink:#E1D8E9;
+--color-white:#F5F5F5;
+
+--color-back:var(--color-pink);
+--color-front:var(--color-white);
+}
+/* /colors */
+

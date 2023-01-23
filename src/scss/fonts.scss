@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-ExtraLight.woff") format('woff');
+    font-weight: 200;
+
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-Light.woff") format('woff');
+    font-weight: 300;
+
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-Regular.woff") format('woff');
+    font-weight: 400;
+
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-Medium.woff") format('woff');
+    font-weight: 500;
+
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-SemiBold.woff") format('woff');
+    font-weight: 600;
+
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("../fonts/Inter-Bold.woff") format('woff');
+    font-weight: 700;
+
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url("../fonts/Jost-Medium.woff") format('woff');
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url("../fonts/PlayfairDisplay-Bold.woff") format('woff');
+}
+
+@font-face {
+    font-family: 'IstokWeb';
+    src: url("../fonts/IstokWeb-Regular.woff") format('woff');
+}
+.f1 {
+    font-family: var(--ff-1);
+}
+.f2 {
+    font-family: var(--ff-2);
+}
+.f3 {
+    font-family: var(--ff-3);
+}
+.f4 {
+    font-family: var(--ff-4);
+}

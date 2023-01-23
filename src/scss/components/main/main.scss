@@ -1,0 +1,6 @@
+.main {
+    @media only screen and (min-width:$mdCnt){
+        grid-row: 2/3;
+        grid-column: 2/3;
+    }
+}
