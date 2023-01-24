@@ -1,0 +1,5 @@
+<svg viewBox="0 0 10 10" id="close"  xmlns="http://www.w3.org/2000/svg">
+<path d="M1.25 8.75L8.75 1.25L1.25 8.75Z" />
+<path d="M1.25 1.25L8.75 8.75L1.25 1.25Z" />
+<path d="M1.25 8.75L8.75 1.25M1.25 1.25L8.75 8.75"  stroke-width="1.5"/>
+</svg>

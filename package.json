@@ -1,15 +1,10 @@
 {
   "devDependencies": {
-    "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.20.2",
-    "@squoosh/lib": "^0.5.3",
     "@webpack-cli/generators": "^3.0.1",
     "autoprefixer": "^10.4.13",
-    "babel-loader": "^9.1.2",
     "css-loader": "^6.7.3",
+    "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.0",
-    "image-minimizer-webpack-plugin": "^3.8.1",
-    "imagemin": "^8.0.1",
     "mini-css-extract-plugin": "^2.7.2",
     "postcss": "^8.4.21",
     "postcss-loader": "^7.0.2",
@@ -32,9 +27,5 @@
     "build:prod": "webpack --mode=production --node-env=production",
     "watch": "webpack --watch",
     "serve": "webpack serve"
-  },
-  "dependencies": {
-    "html-loader": "^4.2.0",
-    "normalize.css": "^8.0.1"
   }
 }

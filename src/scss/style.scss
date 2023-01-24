@@ -1,3 +1,6 @@
 @import 'imports';
 
-
+body{
+    backdrop-filter: blur(50px);
+    user-select: none;
+}
